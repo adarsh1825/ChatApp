@@ -87,4 +87,6 @@ User Page
 
 Chat Page
 
+![Chat Page](https://github.com/user-attachments/assets/005a0de8-c781-4d85-bb9f-8dfc7a5aa473)
+
 
