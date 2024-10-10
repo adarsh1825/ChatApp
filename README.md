@@ -48,6 +48,10 @@ User Page
 
 ![User Page](https://github.com/user-attachments/assets/5f638621-a49e-4b53-8a6e-2775f1e3a9b2)
 
+Search User 
+
+![search users](https://github.com/user-attachments/assets/e18048fc-f289-43a8-9270-9d53a6ce402a)
+
 Chat Page
 
 ![Chat Page](https://github.com/user-attachments/assets/005a0de8-c781-4d85-bb9f-8dfc7a5aa473)
@@ -105,5 +109,6 @@ npm start
 ## Contact
 
 For contact, Email- srivastava1806.adarsh@gmail.com 
+Project URL- 
 
 
