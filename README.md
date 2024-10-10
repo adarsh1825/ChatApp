@@ -109,6 +109,7 @@ npm start
 ## Contact
 
 For contact, Email- srivastava1806.adarsh@gmail.com 
-Project URL- 
+
+Project URL- https://github.com/adarsh1825/ChatApp.git
 
 
