@@ -78,12 +78,9 @@ Go to the project directory
 ```bash
   cd ChatApp
 ```
-
 Install dependencies
 
 ```bash
-  npm install
-
   cd frontend\
   npm install
   npm run dev
