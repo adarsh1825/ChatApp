@@ -81,4 +81,10 @@ Sign Up
 
 ![Sign Up](https://github.com/user-attachments/assets/e6a801c0-a22d-42be-83aa-a1c5abf846b6)
 
+User Page 
+
+![User Page](https://github.com/user-attachments/assets/5f638621-a49e-4b53-8a6e-2775f1e3a9b2)
+
+Chat Page
+
 
