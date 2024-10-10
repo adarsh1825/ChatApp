@@ -72,5 +72,5 @@ https://chatapp-yt-p96g.onrender.com
 
 
 ## Screenshots
-"C:\Users\DELL\Downloads\Log In.png"
+
 
