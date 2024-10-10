@@ -72,7 +72,13 @@ https://chatapp-yt-p96g.onrender.com
 
 
 ## Screenshots
+
 Log In
+
 ![Log In](https://github.com/user-attachments/assets/9af204c5-cd0c-40dd-b47c-88b1ecb8af65)
+
+Sign Up
+
+![Sign Up](https://github.com/user-attachments/assets/e6a801c0-a22d-42be-83aa-a1c5abf846b6)
 
 
